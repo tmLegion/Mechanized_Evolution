@@ -22,6 +22,6 @@ public class ModEventSubscriber {
 
     @SubscribeEvent(priority = EventPriority.LOWEST)
     public static void onPostRegisterEntities(){
-        System.out.println("");
+
     }
 }
