@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mechevo:tungstenore"
+  },
+  "result": "mechevo:tungsteningot",
+  "experience": 1.0,
+  "cookingtime": 400
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mechevo:nickelore"
+  },
+  "result": "mechevo:nickelingot",
+  "experience": 0.7,
+  "cookingtime": 200
+}
