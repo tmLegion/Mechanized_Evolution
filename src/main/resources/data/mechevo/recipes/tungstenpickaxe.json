@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mmm",
+    " M ",
+    " M "
+  ],
+  "key": {
+    "m": {
+      "item": "mechevo:tungsteningot"
+    },
+    "M": {
+      "item": "mechevo:woodhandle"
+    }
+  },
+  "result": {
+    "item": "mechevo:tungstenpickaxe",
+    "count": 1
+  }
+}

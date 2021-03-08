@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "mechevo:tungstencarbidedust"
+  },
+  "result": "mechevo:tungstencarbideingot",
+  "experience": 0.9,
+  "cookingtime": 800
+}
